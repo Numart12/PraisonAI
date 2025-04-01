@@ -1,7 +1,7 @@
 {
   "name": "praisonai",
   "version": "1.0.0",
-  "description": "Frontend для CrewAI",
+  "description": "Frontend for CrewAI",
   "main": "server.js",
   "scripts": {
     "dev": "vite",
